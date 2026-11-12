@@ -1,0 +1,120 @@
+MovaEngine — Non-Commercial Use License
+Version dated November 12, 2026
+
+Copyright (c) 2026 Batyar_lv. All rights not expressly granted below are reserved.
+
+Requests for written permission, questions about this license, and reports
+of violations should be sent to: batyarlvbatyar@gmail.com.
+
+This text is also provided in Ukrainian (file License_UA.txt). In case of any
+discrepancy between the two versions, the Ukrainian version prevails.
+
+1. Scope
+
+These terms apply only to the original code, design, and materials of MovaEngine,
+the rights to which belong to Batyar_lv. Third-party components are covered by
+separate licenses listed in Section 7; these terms do not limit the rights
+granted by those licenses.
+
+2. Permitted Use
+
+All users are granted a free, non-exclusive permission to download, install,
+run, and use official builds of MovaEngine for non-commercial purposes, and to
+make backup copies for such use.
+
+In particular, the following is permitted:
+- personal use and learning;
+- creating free, non-commercial localizations and game modifications, provided
+  the rights of the games' rights holders are respected;
+- distributing, free of charge, non-commercial patches created with the program
+  together with the generated installer, preserving the license notices
+  contained in the installer itself;
+- showing MovaEngine in videos, streams, and articles, including on monetized
+  platforms, provided that no paid localization services using MovaEngine
+  are offered in them.
+
+Voluntary donations are considered non-commercial provided they are not a
+condition of receiving a patch, access to it, or access to a particular
+localization, and are not payment for specific work.
+
+3. Restrictions
+
+Without separate written permission from Batyar_lv, MovaEngine may not be used
+for paid services, commercial orders, the creation or maintenance of commercial
+products, or any other activity aimed at obtaining commercial benefit.
+In particular, commercial activity includes: selling patches and localizations;
+paid or subscription-restricted access to the results of work; performing
+localizations to order for a fee; and use within the operations of a company
+or studio that earns revenue.
+
+Selling, redistributing, modifying, and decompiling the original parts of
+MovaEngine require the author's written permission, except where expressly
+permitted by applicable law. These restrictions do not apply to third-party
+components within the rights granted by their own licenses.
+
+This license does not transfer to the author of MovaEngine any rights to
+translations, notes, guides, patches, or other results of work created by the
+user. Rights to them and to the source materials are determined by their
+respective rights holders. Use of MovaEngine itself for commercial activity
+remains restricted in accordance with this section.
+
+4. Source Code
+
+If the source code of MovaEngine is published (including in the official GitHub
+repository), it is available for viewing. Such publication does not grant the
+right to use, modify, or distribute the original code other than as permitted
+by Section 2 or by the author's written permission. Rights granted to all
+GitHub users by the terms of the service itself (viewing and creating forks
+within the platform) are not revoked by this license.
+
+5. Warranty and Liability
+
+The program is provided "as is," without warranties of error-free operation,
+fitness for a particular purpose, or compatibility with all games and formats.
+Before modifying original files, the user should create backup copies.
+
+To the extent permitted by applicable law, the author is not liable for damages,
+data loss, or other consequences arising from the use of, or inability to use,
+the program. This provision does not exclude any liability or user rights that
+cannot be excluded by law.
+
+6. Game Materials and Responsible Use
+
+Files, code, fonts, images, and other materials of games may be protected by
+copyright and other third-party rights. This license does not grant permission
+to copy, unpack, edit, decompile, or distribute them. The user must have the
+necessary rights or a lawful basis for the relevant actions.
+
+MovaEngine is an independent project. It is not affiliated with, or endorsed by,
+the developers and publishers of the games it works with. Game and company names
+belong to their respective owners.
+
+The author of MovaEngine does not encourage infringement of third-party rights.
+Bugs in the program can be reported on the official GitHub repository page.
+
+7. Third-Party Components
+
+Third-party components are provided under the terms of their respective rights
+holders. MovaEngine's own license, including the non-commercial restriction,
+does not change those terms and does not narrow the rights to use, copy, modify,
+or distribute such components separately. In case of any conflict regarding a
+third-party component, its own license applies.
+
+The full list of versions, copyright notices, and license texts is contained in
+the file ThirdPartyNotices.txt next to this file and in the Licenses subfolder.
+Rights holders' texts are kept in their original language.
+
+In the program: "About" → "All third-party components and licenses".
+
+8. Term, Versions, and Governing Law
+
+This license remains in effect as long as the user complies with its terms.
+If the terms are violated, the rights granted terminate automatically and may
+be reinstated only by the author's written permission.
+
+The author may publish new versions of this license. A user who received a build
+together with a particular version may use that build under the terms of that
+version. For new builds, the version shipped with them applies.
+
+These terms are governed by the laws of Ukraine. If any provision is found
+invalid, the remaining provisions remain in force.
